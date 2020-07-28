@@ -20,5 +20,14 @@ void main(){
   double z=5.5;
 
   print('$x - $y- $z');
+  
+  //strings
+  
+  String nomb='Carlos Lopez joya';
+  print(nomb);
+  print('Hello $nomb');
+  
+  print(nomb[1]);
+  print(nomb[nomb.length-1]);
 
 }
