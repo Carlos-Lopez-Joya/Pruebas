@@ -12,4 +12,22 @@ void main(){
   }
 
 
+
+  //numeros
+
+  var x=5;
+  int y=4;
+  double z=5.5;
+
+  print('$x - $y- $z');
+  
+  //strings
+  
+  String nomb='Carlos Lopez joya';
+  print(nomb);
+  print('Hello $nomb');
+  
+  print(nomb[1]);
+  print(nomb[nomb.length-1]);
+
 }
