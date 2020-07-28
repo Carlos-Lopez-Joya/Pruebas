@@ -1,4 +1,10 @@
 body{
 
-  background-color: green;
+  background-color: gray;
+}
+.titulo1{
+
+  font-size: 500%;
+  color: blue;
+  text-align: center;
 }
