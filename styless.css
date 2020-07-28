@@ -7,6 +7,7 @@ body{
   font-size: 500%;
   color: #FFFFFF;
   text-align: center;
+  width: 100%;
 }
 #titulo2{
 
@@ -14,6 +15,7 @@ body{
   position: relative;
   top: 100px;
   left: 80px;
+  width: 100%;
 }
 .par1{
 
@@ -23,8 +25,10 @@ body{
   left: 60px;
   font-family:cursive;
   font-size: 20px;
+  width: 90%;
 
 }
+
 
 .boton1{
   background-color:#33FFF3;
@@ -34,6 +38,8 @@ body{
   font-size: 200%;
   position: relative;
   left: 10%;
+  padding: 3%;
+/*  width: 15%;*/
 
 }
 
@@ -45,6 +51,8 @@ body{
   font-size: 200%;
   position: relative;
   left: 30%;
+  padding: 3%;
+  /*width: 15%;*/
 
 }
 
@@ -56,5 +64,7 @@ body{
   font-size: 200%;
   position: relative;
   left: 50%;
+  padding: 3%;
+/*  width: 15%;*/
 
 }
