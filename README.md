@@ -5,3 +5,6 @@ Git y GitHub.
 
 ## Github
 Actualizamos este archivo desde Github.
+
+### Thanks!
+Gracias profe Fernando Herrera.
