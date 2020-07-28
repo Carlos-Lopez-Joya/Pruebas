@@ -12,4 +12,13 @@ void main(){
   }
 
 
+
+  //numeros
+
+  var x=5;
+  int y=4;
+  double z=5.5;
+
+  print('$x - $y- $z');
+
 }
