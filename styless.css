@@ -1,10 +1,60 @@
 body{
 
-  background-color: gray;
+  background: linear-gradient(to right, #b3dced 0%, #29b8e5 50%, #bce0ee 100%)
 }
 .titulo1{
 
   font-size: 500%;
-  color: blue;
+  color: #FFFFFF;
   text-align: center;
+}
+#titulo2{
+
+  font-size: 200%;
+  position: relative;
+  top: 100px;
+  left: 80px;
+}
+.par1{
+
+  text-align: left;
+  position: relative;
+  top: 100px;
+  left: 60px;
+  font-family:cursive;
+  font-size: 20px;
+
+}
+
+.boton1{
+  background-color:#33FFF3;
+  border-color: blue;
+  border-radius: 10px;
+  border-style: outset;
+  font-size: 200%;
+  position: relative;
+  left: 10%;
+
+}
+
+.boton2{
+  background-color:#33FFF3;
+  border-color: blue;
+  border-radius: 10px;
+  border-style: outset;
+  font-size: 200%;
+  position: relative;
+  left: 30%;
+
+}
+
+.boton3{
+  background-color:#33FFF3;
+  border-color: blue;
+  border-radius: 10px;
+  border-style: outset;
+  font-size: 200%;
+  position: relative;
+  left: 50%;
+
 }
